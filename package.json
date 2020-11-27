@@ -9,14 +9,23 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
+    "ckeditor": "^4.12.1",
     "connect-flash": "^0.1.1",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
     "express-messages": "^1.0.1",
     "express-messenger": "^0.0.4",
     "express-session": "^1.17.1",
-    "express-validator": "^5.3.0",
-    "mongoose": "^5.10.15"
+    "express-validator": "^5.3.1",
+    "fs-extra": "^9.0.1",
+    "jquery": "^3.5.1",
+    "mkdirp": "0.5.1",
+    "mongoose": "^5.10.15",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "resize-img": "^2.0.0"
   }
 }
